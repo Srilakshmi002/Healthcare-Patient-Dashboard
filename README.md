@@ -17,7 +17,7 @@ Dynamic pivot tables for detailed, customizable data exploration.
 ## Data Source and Preparation
 
 ### Dataset Source
-Sourced from kaggle featuring anonymized hospital records on patient info, treatment and billing.
+Sourced from Kaggle featuring anonymized hospital records on patient info, treatment and billing.
 ### Cleaning Method
 Data cleaned and transformed using Power Query in Excel - including null handling, column formatting, and time-based fields for trend analysis.
 
