@@ -46,16 +46,6 @@ Built for stakeholders to explore data dynamically with slicers, filters, KPIs, 
 3. Use slicers on Dashboard sheet to filter (e.g., by condition, age, billing amount)
 4. Explore Pivot Tables sheet for ad-hoc analysis
 
-## Screenshots
-
-(Add these after uploading PNGs to repo)
-
-![Dashboard Overview](dashboard_screenshot1.png)  
-*Main dashboard with slicers and KPIs*
-
-![Treatment Trends](treatment_trends.png)  
-*Example: Top medical conditions & treatments*
-
 ## Future Work
 
 - Migrate to Power BI or Tableau for advanced interactivity & sharing
